@@ -1,0 +1,41 @@
+.main-page{
+    display:flex;
+    gap: 100px;
+    margin-left: 100px;
+}
+
+.main-page-txt{
+    margin-top: 260px;
+}
+
+.main-page-txt h3{
+    font-size: 36px;
+    color: rgb(4, 23, 133);
+    font-weight: 850px;
+}
+
+.main-im{
+    width: 700px;
+    height: 500px;
+    margin-top: 100px;
+    border-radius: 10px;
+    border-style: hidden;
+    margin-bottom: 50px;
+    margin-right: 50px;
+}
+
+.download-btn{
+    background-color: rgb(205, 231, 231);
+    width: 180px;
+    height: 50px;
+    border-radius: 10px;
+    padding: 10px;
+    margin:10px;
+    border-style: initial;
+}
+
+.download-btn:hover{
+    background-color: black;
+    color: azure;
+}
+

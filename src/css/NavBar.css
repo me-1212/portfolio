@@ -1,0 +1,52 @@
+.nav {
+  margin: 10px;
+  padding: 10px;
+  position: sticky;
+  display: flex;
+}
+
+.logo-name {
+  margin-top: 25px;
+}
+
+.link{
+  text-decoration: none;
+}
+
+.logo {
+  font-size: 28px;
+  font-weight: bold;
+  color: #333;
+  background-color: #e9ecef;
+  padding: 5px 10px;
+  border-radius: 11px;
+  margin-left: 100px;
+}
+
+.name {
+  font-size: 24px;
+  font-weight: bold;
+  color: #333;
+  margin-left: 10px;
+}
+
+.menu ul {
+  list-style: none;
+  display: flex;
+  gap: 3.5rem;
+  padding-top: 25px;
+  margin-left: 300px;
+}
+
+.menu ul a {
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.menu ul a:hover {
+  color: darkolivegreen;
+}

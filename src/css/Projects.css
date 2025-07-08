@@ -1,0 +1,23 @@
+.header {
+    align-self: center;
+    margin-left: 500px;
+    margin-top: 80px;
+    font-size: 24px;
+}
+
+.hor-line {
+    width: 1000px;
+    margin-left: 160px;
+    margin-right: 80px;
+    margin-top: 100px;
+    color: rgb(184, 185, 185);
+}
+
+.card-coll {
+    margin-left: 80px;
+    margin-right: 80px;
+    padding: 30px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* 3 columns */
+    gap: 23px;
+}
