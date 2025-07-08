@@ -1,3 +1,24 @@
+/* Mobile styles (default) */
+.container {
+  width: 100%;
+  padding: 1rem;
+}
+
+/* Tablet (min-width: 768px) */
+@media (min-width: 768px) {
+  .container {
+    width: 80%;
+    margin: 0 auto;
+  }
+}
+
+/* Desktop (min-width: 1024px) */
+@media (min-width: 1024px) {
+  .container {
+    max-width: 1200px;
+  }
+}
+
 .main-page{
     display:flex;
     gap: 100px;
