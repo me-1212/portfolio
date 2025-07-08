@@ -18,7 +18,7 @@ function MainPage() {
             Download CV
           </button>
         </div>
-        <img src="logo.jpg" className="main-im" />
+        <img src="home.jpg" className="main-im" />
       </div>
     </>
   );
