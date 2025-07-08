@@ -1,8 +1,8 @@
 /* Mobile styles (default) */
-.container {
+/* .container {
   width: 100%;
   padding: 1rem;
-}
+} */
 
 /* Tablet (min-width: 768px) */
 @media (min-width: 768px) {
